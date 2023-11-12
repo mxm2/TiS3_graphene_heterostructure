@@ -1,4 +1,4 @@
-<b2>2D TiS3/graphene van der Waals heterostructure example</b2>
+<h2>2D TiS3/graphene van der Waals heterostructure example</h2>
 Since the discovery of graphene as a two-dimensional material with promising properties, significant scientific and practical interest has appeared in van der Waals heterostructures based on 2D materials, representing the synergy of the properties of two 2D materials, see for example [1]. In this example, using two popular software packages Quantum ESPRESSO [2] and SIESTA [3], the results of a study of the TiS3/graphene heterostructure, as well as the adsorption of magnesium cation on it, which is of practical importance for use, for example, as electrodes of magnesium batteries, are presented. PBE+DFT-D2 method was used. The performance of SIESTA far exceeds Quantum ESPRESSO, but at the expense of quality. This does however mean that SIESTA can be effectively used for pre-screening in the calculation of properties of interest.
 
 2D TiS3/graphene van der Waals heterostructure:
